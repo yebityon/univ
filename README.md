@@ -1,11 +1,11 @@
 # univ
 yebiが大学で作成したいろんなもの一覧
 
-# isjava
+## isjava
 Java演習で作ったもの一覧。基本的な機能はあります。
 参考にしたサイト
 https://www.javadrive.jp/tutorial/
 
-#sakky
+## sakky
 友人用
 
